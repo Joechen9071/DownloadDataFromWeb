@@ -1,0 +1,10 @@
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\bin\Debug\DownloadDataFromWeb.exe.config
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\bin\Debug\DownloadDataFromWeb.exe
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\bin\Debug\DownloadDataFromWeb.pdb
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.csprojResolveAssemblyReference.cache
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.Form1.resources
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.Properties.Resources.resources
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.csproj.GenerateResource.Cache
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.exe
+C:\Users\Joe\source\repos\DownloadDataFromWeb\DownloadDataFromWeb\obj\Debug\DownloadDataFromWeb.pdb
